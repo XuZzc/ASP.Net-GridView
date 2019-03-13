@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\WebT07\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\WebT07\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\WebT07\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Desktop\WebT07\Model\obj\Debug\Model.pdb
+C:\Users\Administrator\Desktop\WebT07\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\GridView\Model\bin\Debug\Model.dll
+C:\Users\ASUS\Desktop\GridView\Model\bin\Debug\Model.pdb
+C:\Users\ASUS\Desktop\GridView\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\GridView\Model\obj\Debug\Model.dll
+C:\Users\ASUS\Desktop\GridView\Model\obj\Debug\Model.pdb

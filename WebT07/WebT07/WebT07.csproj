@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9DD3E722-5881-4458-903C-C988138C0233}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WebT07</RootNamespace>
+    <AssemblyName>WebT07</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Demo01.aspx" />
+    <Content Include="InsertUI.aspx" />
+    <Content Include="ProductPic\1010210361600002_160.jpg" />
+    <Content Include="ProductPic\1020310399800001_160.jpg" />
+    <Content Include="ProductPic\1060310485480001_160.jpg" />
+    <Content Include="ProductPic\1080210395820002_160.jpg" />
+    <Content Include="ProductPic\1080210395920005_160.jpg" />
+    <Content Include="ProductPic\2010210384820005_160.jpg" />
+    <Content Include="ProductPic\20130428172404505_160.jpg" />
+    <Content Include="ProductPic\20130521164901115_160.jpg" />
+    <Content Include="ProductPic\20130527145208719_160.jpg" />
+    <Content Include="ProductPic\20130529170802349_160.jpg" />
+    <Content Include="ProductPic\2013052917413556_160.jpg" />
+    <Content Include="ProductPic\2013059100102567_160.jpg" />
+    <Content Include="ProductPic\20130619143511416_160.jpg" />
+    <Content Include="ProductPic\20130625103824415_160.jpg" />
+    <Content Include="ProductPic\2013064113959168_160.jpg" />
+    <Content Include="ProductPic\20130710113034810_160.jpg" />
+    <Content Include="ProductPic\20130711101741672_160.jpg" />
+    <Content Include="ProductPic\20130723152545668_160.jpg" />
+    <Content Include="ProductPic\20130724140847419_160.jpg" />
+    <Content Include="ProductPic\20130729093409713_160.jpg" />
+    <Content Include="ProductPic\20130729180052467_160.jpg" />
+    <Content Include="ProductPic\2013073112459581_160.jpg" />
+    <Content Include="ProductPic\2013073112553289_160.jpg" />
+    <Content Include="ProductPic\2013074095625176_160.jpg" />
+    <Content Include="ProductPic\2013074103146503_160.jpg" />
+    <Content Include="ProductPic\2013074151327333_160.jpg" />
+    <Content Include="ProductPic\20130823164815268_160.jpg" />
+    <Content Include="ProductPic\20130827141515567_160.jpg" />
+    <Content Include="ProductPic\2014011613390831_160.jpg" />
+    <Content Include="ProductPic\20140116135628348_160.jpg" />
+    <Content Include="ProductPic\20140116144522309_160.jpg" />
+    <Content Include="ProductPic\20140117093620550_160.jpg" />
+    <Content Include="ProductPic\20140120162230687_160.jpg" />
+    <Content Include="ProductPic\2014017162520357_160.jpg" />
+    <Content Include="ProductPic\2035094757600_160.jpg" />
+    <Content Include="ProductPic\2044092443306_160.jpg" />
+    <Content Include="ProductPic\20480313816_160.jpg" />
+    <Content Include="ProductPic\2048095429100_160.jpg" />
+    <Content Include="ProductPic\20510614809_160.jpg" />
+    <Content Include="ProductPic\2052095906572_160.jpg" />
+    <Content Include="ProductPic\20960245_160.jpg" />
+    <Content Include="ProductPic\209803115_160.jpg" />
+    <Content Include="ProductPic\2162_160.jpg" />
+    <Content Include="ProductPic\2176_160.jpg" />
+    <Content Include="ProductPic\2811_160.jpg" />
+    <Content Include="ProductPic\2912_160.jpg" />
+    <Content Include="ProductPic\3010110234410001_160.jpg" />
+    <Content Include="ProductPic\3020210407410006_160.jpg" />
+    <Content Include="ProductPic\3020210444860006_160.jpg" />
+    <Content Include="ProductPic\3020310370810019_160.jpg" />
+    <Content Include="ProductPic\3020310469700001_160.jpg" />
+    <Content Include="ProductPic\3020310481720001_160.jpg" />
+    <Content Include="ProductPic\3040_160.jpg" />
+    <Content Include="ProductPic\3050210289030003_160.jpg" />
+    <Content Include="ProductPic\4050310251210005_160.jpg" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Demo01.aspx.cs">
+      <DependentUpon>Demo01.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Demo01.aspx.designer.cs">
+      <DependentUpon>Demo01.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="InsertUI.aspx.cs">
+      <DependentUpon>InsertUI.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="InsertUI.aspx.designer.cs">
+      <DependentUpon>InsertUI.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\BLL\BLL.csproj">
+      <Project>{bef49450-73f1-4273-a97b-10dae8ff7985}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\DAL\DAL.csproj">
+      <Project>{05fd18fe-3f6d-40f7-a481-a4d21198499a}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Model\Model.csproj">
+      <Project>{c528d0e8-ff70-4a8e-a175-3d6a0695609b}</Project>
+      <Name>Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>0</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:56825/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

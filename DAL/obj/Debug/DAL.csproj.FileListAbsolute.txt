@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\WebT07\DAL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\WebT07\DAL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\WebT07\DAL\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\WebT07\DAL\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\WebT07\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WebT07\DAL\obj\Debug\DAL.dll
+C:\Users\Administrator\Desktop\WebT07\DAL\obj\Debug\DAL.pdb
+C:\Users\ASUS\Desktop\GridView\DAL\bin\Debug\DAL.dll
+C:\Users\ASUS\Desktop\GridView\DAL\bin\Debug\DAL.pdb
+C:\Users\ASUS\Desktop\GridView\DAL\bin\Debug\Model.dll
+C:\Users\ASUS\Desktop\GridView\DAL\bin\Debug\Model.pdb
+C:\Users\ASUS\Desktop\GridView\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\GridView\DAL\obj\Debug\DAL.dll
+C:\Users\ASUS\Desktop\GridView\DAL\obj\Debug\DAL.pdb
